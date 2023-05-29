@@ -1,5 +1,5 @@
 <?php
-namespace Bangnokia\FilamentCraft;
+namespace Bangnokia\FilamentCraft\Concerns;
 
 trait DisableCreate
 {
