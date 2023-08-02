@@ -4,9 +4,10 @@
     "type": "library",
     "require": {
         "php": "^8.0",
-        "filament/filament": "^2.17",
+        "filament/filament": "^3.0",
         "illuminate/support": "^10.11"
     },
+    "minimum-stability": "dev",
     "license": "MIT",
     "autoload": {
         "psr-4": {
